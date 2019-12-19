@@ -1,1 +1,3 @@
-# n_queens_problem
+N Queens Problem 
+-This's studying.
+-End.
